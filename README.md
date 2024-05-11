@@ -7,13 +7,13 @@ The interactive dashboard provides a comprehensive analysis of the tournament, s
 It encompasses player performances, team statistics, match results, and other relevant attributes across different formats and seasons. This dataset provides valuable insights into player and team dynamics, performance trends, and statistical patterns in the game of cricket.
 
 ### 📌 Project Steps :-  
-1) Data collection
-2) Data cleaning
-3) Data processing
-4) Data preparation
-5) Visual Data exploration
-6) Interactive Dashboard
-7) Report publishing and sharing 
+- Data collection
+- Data cleaning
+- Data processing
+- Data preparation
+- Visual Data exploration
+- Interactive Dashboard
+- Report publishing and sharing 
 
 
 
