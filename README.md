@@ -6,7 +6,7 @@ The interactive dashboard provides a comprehensive analysis of the tournament, s
 ## Objective :-       
 It encompasses player performances, team statistics, match results, and other relevant attributes across different formats and seasons. This dataset provides valuable insights into player and team dynamics, performance trends, and statistical patterns in the game of cricket.
 
-### 📌Project Steps :-  
+### 📌 Project Steps :-  
 1) Data collection
 2) Data cleaning
 3) Data processing
@@ -17,7 +17,7 @@ It encompasses player performances, team statistics, match results, and other re
 
 
 
-### 📌Conclusion :-       
+### 📌 Conclusion :-       
 Take a peek at our comprehensive analysis, showcasing the game-changing insights and trends within the IPL, From player performance to team stats and players stats, our dashboard unravels the data-driven story behind Sport.📈   
 Whether you're a cricket aficionado or simply love diving into data, this dashboard offers a unique perspective on the IPL. Check out the video to explore the dashboard and let us know your thoughts! Sharing is caring, so feel free to spread the word among fellow cricket enthusiasts! 🌟
 
