@@ -25,7 +25,7 @@ https://public.tableau.com/views/IPL_17109143099420/STORY?:language=en-US&publis
 ## DashBoard Vedio :-
 https://github.com/MyProjects-5/IPL-Analysis/assets/140932670/3785b248-9ae8-4619-a125-a8e75ab4101c
 
-## Output :-
+## Screenshot of the Analysis :-
 ![Screenshot 2024-03-24 103307](https://github.com/MyProjects-5/IPL-ANALYSIS/assets/140932670/0d3eed3c-7527-4bad-ae33-4afccae66a64)
 ![Screenshot 2024-03-24 103443](https://github.com/MyProjects-5/IPL-ANALYSIS/assets/140932670/f9550eb0-2980-4c2c-9c29-6c2272975833)
 
