@@ -22,6 +22,9 @@ Whether you're a cricket aficionado or simply love diving into data, this dashbo
 ## Tableau Dashboard Link :-
 https://public.tableau.com/views/IPL_17109143099420/STORY?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link 
 
+## DashBoard Vedio :-
+https://github.com/MyProjects-5/IPL-Analysis/assets/140932670/3785b248-9ae8-4619-a125-a8e75ab4101c
+
 ## Output :-
 https://github.com/MyProjects-5/IPL-ANALYSIS/assets/140932670/91ccde6f-efab-4a47-8ebf-172cf5ce7fa0
 ![Screenshot 2024-03-24 103307](https://github.com/MyProjects-5/IPL-ANALYSIS/assets/140932670/0d3eed3c-7527-4bad-ae33-4afccae66a64)
