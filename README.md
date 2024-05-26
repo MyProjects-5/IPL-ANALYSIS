@@ -1,4 +1,4 @@
-# Indian Premier League (IPL) 
+# Indian Premier League (IPL
 Excited to share my Tableau project where I analyzed and visualized the Indian Premier League (IPL) data from 2008 to 2023.
 
 The interactive dashboard provides a comprehensive analysis of the tournament, showcasing insights on title winners, orange cap winners, purple cap winners, and other key trends. Through this visualization, I was able to gain a deeper understanding of IPL performance and trends, and I'm thrilled to share it with you all.
